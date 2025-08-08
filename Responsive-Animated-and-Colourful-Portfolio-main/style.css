@@ -87,7 +87,7 @@ section {
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url('alwan.jpeg.jpg') no-repeat;
+    background: url('alwan.jpeg') no-repeat;
     background-size: cover;
     background-position: center;
 }
